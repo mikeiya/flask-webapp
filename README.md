@@ -1,5 +1,4 @@
-# Flask RESTful API example
-_(This repo is part of our [Free Flask Tutorial](https://flask-tutorial.com))_
+# Flask RESTful API
 
 This repo shows how to create a simple RESTful API using the Flask web framework. Among the included features, you'll see how to:
 * Return custom status codes and headers ⚡️
