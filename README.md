@@ -7,14 +7,13 @@ This repo shows how to create a simple RESTful API using the Flask web framework
 * Deleting resources using DELETE requests 📭
 * Test the application using Flask's [test client](http://flask.pocoo.org/docs/latest/testing) 🔮
 
-**There's a detailed video lesson on how to perform the deploy in our [Free Flask Tutorial](https://flask-tutorial.com).**
 
 ## Install guide
 
 ##### Clone the repo
 
 ```bash
-$ git clone https://github.com/rmotr/flask-api-example.git
+$ git clone https://github.com/mikeiya/flask-api-example.git
 $ cd flask-api-example
 ```
 
